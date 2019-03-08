@@ -1,6 +1,6 @@
 ## Introduction
 
-Nutritionalize provides you with nutritionalal information on menu items available in popular fast food restaurants. You can make use of it to get raw data on certain food items and filter out items based on your criteria.
+Nutritionalize provides you with nutritional information on menu items available in popular fast food restaurants. You can make use of it to get raw data on certain food items and filter out items based on your criteria.
 
 ## Installation
 
